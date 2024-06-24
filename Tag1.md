@@ -1,8 +1,8 @@
 # 1. Erstellen sie eine leere Tabelle mit 6 Kolonnen und 16 Zeilen. Füllen sie diese wie folgt aus:
-# Kolonne: Dezimalzahlen von 0 bis 15
-# Kolonne: Hexadezimalzahlen von 0 bis F
-# Kolonne, 4. Kolonne, 5. Kolonne und 6. Kolonne die entsprechenden Binärzahlen
-# Studieren sie nun ihre fertig ausgefüllte Tabelle, insbesondere die Kolonnen mit den Binärwerten. Was stellen sie fest?
+Kolonne: Dezimalzahlen von 0 bis 15
+Kolonne: Hexadezimalzahlen von 0 bis F
+Kolonne, 4. Kolonne, 5. Kolonne und 6. Kolonne die entsprechenden Binärzahlen
+Studieren sie nun ihre fertig ausgefüllte Tabelle, insbesondere die Kolonnen mit den Binärwerten. Was stellen sie fest?
 
 Lösung
 Dezimal	Hexadezimal	Binär	Binär	Binär	Binär
